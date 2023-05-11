@@ -110,8 +110,8 @@ a{
     margin-bottom: 10px;
 }
 .card__footer-avatar{
-    width: 30px;
-    border: 1px solid white;
+    width: 50px;
+    border: 2px solid white;
     border-radius: 50%;
     margin-right: 15px;
 }
